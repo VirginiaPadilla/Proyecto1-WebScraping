@@ -16,7 +16,7 @@ Proyecto 1 de la materia de sistemas distribuidos sobre el web scraping con pyth
  
  3. Archivo mp4
  
-     ->Proyecto Web Scraping.mp4 // Video con la explicación del proyecto: diseño, código y ejecución
+     ->Proyecto Web Scraping.mp4 // Video con la explicación del proyecto: diseño, código y ejecución (para verlo se debe descargar)
 
 ## Integrantes 
 Victor Bolivar 27.506.373
